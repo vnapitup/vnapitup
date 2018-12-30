@@ -10,41 +10,39 @@ save_as: index.html
 
 # Hi I'm Victory #
 
-I'm a project manager at [Intershop](https://intershop.com) in Melbourne Australia. And just recently completed a MIS/MIT with [Deakin University](https://deakin.edu.au)
+I'm a project manager at [Intershop](//intershop.com) in Melbourne Australia. And just recently completed a MIS/MIT with [Deakin University](//deakin.edu.au)
 
 # My tools #
 **PC**
- - Markdfown editor:
+ - Markdfown editor: [Typora](//typora.io)
  - Email client:
  - Browser: Chrome & Firefox
- - Launcher:
- - FTP: Filezilla
- - Notes: Evernote
- - Text Editor: Atom
+ - FTP: [Filezilla](//filezilla-project.org)
+ - Notes: [Evernote](//evernote.com)
+ - Text Editor: [Atom](//atom.io)
 
 **Mobile**
  - OS: Android 7.1 (LineageOS)
  - Phone: ZTE Axon 7
- - Notes: Evernote
+ - Notes: [Evernote](//evernote.com)
  - Browser: Firefox & Firefox Focus
  - RSS reader: Press
- - Mood tracking: Daylio
- - Meditation: Smiling mind
+ - Mood tracking: [Daylio](//daylio.webflow.io)
+ - Meditation: [Smiling mind](//smilingmind.com.au)
  - Learning: Duolingo & Elevate
 
 **Services**
- - RSS: Feedbin
- - Music streaming: Spotify
- - Instant messaging:
- - Password manager: Lastpass
- - Finance: Pocketbook
- - Backups: Crashplan
- - TV & movie streaming: Netflix
- - Anime & manga tracking: My Anime List
- - Music tracking: Last.fm
+ - RSS: [Feedbin](//feedbin.com)
+ - Music streaming: [Spotify](//spotify.com)
+ - Password manager: [Lastpass](//lastpass.com)
+ - Finance: [Pocketbook](//getpocketbook.com)
+ - Backups: [Carbonite](//carbonite.com)
+ - TV & movie streaming: [Netflix](//netflix.com)
+ - Anime & manga tracking: [MyAnimeList](//myanimelist.net)
+ - Music tracking: [Last.fm](//last.fm)
 
  **Physical**
-  - Activity, workout, and sleep tracking: Fitbit Ionic
+  - Activity, workout, and sleep tracking: [Fitbit Ionic](//fitbit.com/au/ionic)
   - Tablet: Nexus 7 (2012)
   - Keyboard: Razer Blackwidow
   - Mouse: Razer Deathadder
