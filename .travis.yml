@@ -1,4 +1,5 @@
 language: python
+sudo: required
 branches:
   only:
     - sources
@@ -10,3 +11,14 @@ install:
 - pip install ghp-import
 script:
 - make publish github
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  on:
+    branch: sources
+  target-branch: master
+  local-dir: output
+  fqdn: victoryn.com.au
+  verbose: true
