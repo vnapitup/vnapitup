@@ -1,7 +1,7 @@
 language: python
 branches:
   only:
-    - master
+    - sources
 install:
 - pip install pelican
 - pip install ghp-import
