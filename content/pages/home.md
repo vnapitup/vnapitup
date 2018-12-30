@@ -46,3 +46,4 @@ I'm a project manager at [Intershop](//intershop.com) in Melbourne Australia. An
   - Tablet: Nexus 7 (2012)
   - Keyboard: Razer Blackwidow
   - Mouse: Razer Deathadder
+  - Speakers: Audioengine A2
