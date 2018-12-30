@@ -2,20 +2,11 @@ language: python
 branches:
   only:
     - sources
+env:
+  global:
+    secure: $GITHUB_TOKEN
 install:
 - pip install pelican
 - pip install ghp-import
 script:
 - make publish github
-deploy:
-  provider: pages
-  repo: vnapitup/vnapitup.github.io
-  target_branch: sources
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  keep-history: True
-  on:
-    branch: master
-  local-dir: output
-  fqdn: victoryn.com.au
-  email: victoryn@gmail.com
