@@ -28,7 +28,7 @@ I'm a project manager at [Intershop](//intershop.com) in Melbourne Australia. An
  - Browser: Firefox & Firefox Focus
  - RSS reader: Press
  - Mood tracking: [Daylio](//daylio.webflow.io)
- - Meditation: [Smiling mind](//smilingmind.com.au)
+ - Meditation: [Smiling Mind](//smilingmind.com.au)
  - Learning: Duolingo & Elevate
 
 **Services**
