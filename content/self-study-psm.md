@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Title: self-study-psm
-=======
 Title: Self studying my way through the PSM
->>>>>>> dacf0c30834e79d59677f4acd0d0e2f1e4c084e1
 Date: 2018-03-01 09:00
 Modified: 2018-03-01 09:00
 Category: Misc
