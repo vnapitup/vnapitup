@@ -20,10 +20,10 @@ DEFAULT_LANG = 'en'
 # AUTHOR_FEED_RSS = None
 
 # Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
+LINKS = (('victoryn.com.au', '//victoryn.com.au'),
 #         ('Python.org', 'http://python.org/'),
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
+         ('Unplayed', '//victoryn.com.au/unplayed'),)
 
 # Social widget
 # SOCIAL = (('You can add links in your config file', '#'),
@@ -36,3 +36,5 @@ DEFAULT_PAGINATION = 3
 
 THEME = 'pelican-svbhack'
 STATIC_PATHS = ['img','static']
+USER_LOGO_URL = SITEURL + '/theme/images/victoryn-trentham.jpg'
+ROUND_USER_LOGO = True

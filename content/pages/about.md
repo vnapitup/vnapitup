@@ -12,8 +12,8 @@ Author: Victory Napitupulu
 **PC**
 
 * Markdown editor: [Typora](//typora.io)
-* Email client:
-* Browser: Chrome & Firefox
+* Email client: [Thunderbird](//thunderbird.net)
+* Browser: [Brave](//brave.com)
 * FTP: [Filezilla](//filezilla-project.org)
 * Notes: [Evernote](//evernote.com)
 * Text Editor: [Atom](//atom.io)
@@ -24,10 +24,10 @@ Author: Victory Napitupulu
 * Phone: ZTE Axon 7
 * Notes: [Evernote](//evernote.com)
 * Browser: Firefox & Firefox Focus
-* RSS reader: Press
+* RSS reader: [Press](//play.google.com/store/apps/details?id=com.twentyfivesquares.press)
 * Mood tracking: [Daylio](//daylio.webflow.io)
 * Meditation: [Smiling Mind](//smilingmind.com.au)
-* Learning: Duolingo & Elevate
+* Learning: [Duolingo](//duolingo.com) & [Elevate](//elevateapp.com)
 
 **Services**
 
