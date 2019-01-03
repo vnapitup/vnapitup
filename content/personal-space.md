@@ -3,7 +3,7 @@ Date: 2018-05-01 09:00
 Modified: 2018-05-01 09:00
 Category: Misc
 Tags: Misc
-Slug: 2016-review
+Slug: personal-space
 Author: Victory Napitupulu
 
 We all need our own personal space. Whether for self-expression and creativity, or to retreat into sanctuary away from the busyness of the world.

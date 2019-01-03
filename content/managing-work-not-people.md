@@ -3,7 +3,7 @@ Date: 2018-03-05 09:00
 Modified: 2018-03-05 09:00
 Category: Misc
 Tags: Misc
-Slug: 2016-review
+Slug: managing-people-not-work
 Author: Victory Napitupulu
 
 A friend was me telling the story of how her manager had been very micro-managing last week - to the point of listening in on conversations from the other side of the room.
