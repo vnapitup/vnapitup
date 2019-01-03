@@ -14,6 +14,8 @@ Author: Victory Napitupulu
 * Markdown editor: [Typora](//typora.io)
 * Email client: [Thunderbird](//thunderbird.net)
 * Browser: [Brave](//brave.com)
+* IDE: Visual Studio Code
+* Task Manager: [Workflow](//workflowy.com)
 * FTP: [Filezilla](//filezilla-project.org)
 * Notes: [Evernote](//evernote.com)
 * Text Editor: [Atom](//atom.io)
