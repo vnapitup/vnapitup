@@ -21,7 +21,7 @@ DEFAULT_LANG = 'en'
 
 # Blogroll
 LINKS = (('victoryn.com.au', '//victoryn.com.au'),
-#         ('Python.org', 'http://python.org/'),
+         ('Bookmarks', '//bookmarks.victoryn.com.au'),
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
          ('Unplayed', '//victoryn.com.au/unplayed'),)
 
