@@ -39,7 +39,7 @@ Author: Victory Napitupulu
 * Finance: [Pocketbook](//getpocketbook.com)
 * Backups: [Carbonite](//carbonite.com)
 * TV & movie streaming: [Netflix](//netflix.com)
-* Anime & manga tracking: [MyAnimeList](//myanimelist.net)
+* Anime & manga tracking: [Kitsu](//kitsu.io)
 * Music tracking: [Last.fm](//last.fm)
 
  **Physical**
