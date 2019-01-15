@@ -33,9 +33,9 @@ Author: Victory Napitupulu
 
 **Services**
 
-* RSS: [Feedbin](//feedbin.com)
-* Music streaming: [Spotify](//spotify.com)
-* Password manager: [Lastpass](//lastpass.com)
+* RSS: [Tiny Tiny RSS (selfhosted)](//tt-rss.org/)
+* Music streaming: [Deezer](//deezer.com)
+* Password manager: [Bitwarden](//bitwarden.com)
 * Finance: [Pocketbook](//getpocketbook.com)
 * Backups: [Carbonite](//carbonite.com)
 * TV & movie streaming: [Netflix](//netflix.com)
