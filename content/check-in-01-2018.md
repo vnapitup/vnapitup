@@ -1,8 +1,7 @@
 Title: Check-In #1 2018
 Date: 2019-01-14 09:00
 Modified: 2019-01-14 09:00
-Category: Check-Ins
-Tags: Check-Ins
+Category: check-ins
 Slug: check-in-01-2018
 Author: Victory Napitupulu
 
@@ -23,4 +22,8 @@ I also came across [privacytools.io](//privacytools.io), which really pushed me 
 
 # Highlights #
 * **2019!** It's a new year! I hope it turns out to be a good one
-*
+* **Back at the gym** New year new me! Last year started off great getting down to 71kg, but I ended the year at 86kg. Consistency is a real problem but I just have to keep working at it.
+* **Rebuilt the site.** I just finished rebuilding [victoryn.com.au](//victoryn.com.au), and moving the [blog](//blog.victoryn.com.au) from Wordpress to [Pelican](//blog.getpelican.com/). I've been fascinated with static site generators and trying to achieve lightning fast websites.
+* **Selfhosting.** I've rolled a VM again, and loaded it up with some software to replace services I had been subscribing to. Starting with [feeds](//feeds.victoryn.com.au) and [bookmarks](//bookmarks.victoryn.com.au)
+
+Eventually I'm planning to add monthly goals, stats things like that. Aiming to have those in the next check in!
