@@ -2,7 +2,7 @@ Title: Check-In #1 2019
 Date: 2019-01-14 09:00
 Modified: 2019-01-14 09:00
 Category: check-ins
-Slug: check-in-01-2018
+Slug: check-in-01-2019
 Author: Victory Napitupulu
 
 > I thought I'd try out writing fortnightly personal reviews, but "personal review" seems to formal so I'll call them "check ins". Here goes!
