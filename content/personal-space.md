@@ -1,8 +1,7 @@
 Title: Personal space
 Date: 2018-05-01 09:00
 Modified: 2018-05-01 09:00
-Category: Misc
-Tags: Misc
+Category: misc
 Slug: personal-space
 Author: Victory Napitupulu
 

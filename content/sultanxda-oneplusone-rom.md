@@ -1,8 +1,7 @@
 Title: Sultanxda's OnePlus One Rom
 Date: 2015-09-29 09:00
 Modified: 2015-09-29 09:00
-Category: Misc
-Tags: Misc
+Category: misc
 Slug: sultanxda-oneplusone-rom
 Author: Victory Napitupulu
 

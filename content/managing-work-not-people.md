@@ -1,8 +1,7 @@
 Title: Managing work, not people
 Date: 2018-03-05 09:00
 Modified: 2018-03-05 09:00
-Category: Misc
-Tags: Misc
+Category: misc
 Slug: managing-people-not-work
 Author: Victory Napitupulu
 

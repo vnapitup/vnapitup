@@ -1,8 +1,7 @@
 Title: Self studying my way through the PSM
 Date: 2018-03-01 09:00
 Modified: 2018-03-01 09:00
-Category: Misc
-Tags: Misc
+Category: misc
 Slug: self-study-psm
 Author: Victory Napitupulu
 

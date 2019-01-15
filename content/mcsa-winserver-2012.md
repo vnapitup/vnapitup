@@ -1,8 +1,7 @@
 Title: Challenge: MCSA Windows Server 2012
 Date: 2014-01-20 09:00
 Modified: 2014-01-20 09:00
-Category: Misc
-Tags: Misc
+Category: misc
 Slug: mcsa-winserver-2012
 Author: Victory Napitupulu
 
