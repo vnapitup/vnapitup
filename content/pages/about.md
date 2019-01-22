@@ -34,13 +34,16 @@ Author: Victory Napitupulu
 **Services**
 
 * RSS: [Tiny Tiny RSS (selfhosted)](//tt-rss.org/)
-* Music streaming: [Deezer](//deezer.com)
+* Music streaming: [Spotify](//spotify.com)
 * Password manager: [Bitwarden](//bitwarden.com)
-* Finance: [Pocketbook](//getpocketbook.com)
+* Budgeting: [Pocketbook](//getpocketbook.com)
 * Backups: [Carbonite](//carbonite.com)
 * TV & movie streaming: [Netflix](//netflix.com)
 * Anime & manga tracking: [Kitsu](//kitsu.io)
 * Music tracking: [Last.fm](//last.fm)
+* Voice & Text Chat: [Discord](//discordapp.com)
+* Fitness: [Fitocracy](//fitocracy.com)
+* Nutrition: [MyFitnessPal](//myfitnesspal.com)
 
  **Physical**
 
