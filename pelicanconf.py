@@ -35,6 +35,6 @@ DEFAULT_PAGINATION = 3
 #RELATIVE_URLS = True
 
 THEME = 'pelican-svbhack'
-STATIC_PATHS = ['img','static']
+STATIC_PATHS = ['images','static']
 USER_LOGO_URL = SITEURL + '/theme/images/victoryn-trentham.jpg'
 ROUND_USER_LOGO = True
