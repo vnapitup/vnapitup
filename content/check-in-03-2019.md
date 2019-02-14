@@ -8,6 +8,7 @@ Author: Victory Napitupulu
 It's been a bit of a quiet month so far. Outside of work I've been really ramping up the frequency and intensity of my workouts at gym, and it feels really great to already be seeing some results. Cooking and preparing meals is now a regular thing too.
 
 Been making some calls around to save on bills
+
 * Car Insurance $110.22 to $78.36: I saved about $30 a month by switching from RACV to Budget Direct. Honestly, the catalyst behind this was the fact that RACV wouldn't help me pursue the at-fault party for an accident, so I thought Why pay them more?
 * Mobile Plan $30 to $14.66: Was able to halve by mobile plan expense by switching from Amaysim to Lebara during their Chinese New Year sale. The savings might even be better since Amaysim charges per 28 days.
 * Not really a savings but I've finally claimed my bond back from a tenancy I had two years ago. Its funny there was $600 just waiting for me that I'd forgotten About
