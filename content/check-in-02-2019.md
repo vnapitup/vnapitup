@@ -9,7 +9,7 @@ Author: Victory Napitupulu
 
 ---
 
-![Image](/{attach}/images/newzarajacket-20190129.jpg)
+![Image](../images/newzarajacket-20190129.jpg)
 
 I love this time of year where people are free to catch up and hang out. It's nice to see everyone before we all get swept up in work and the everyday. But it has been a quiet month at the office so far. The wait has been getting tedious, and I'm hoping to ramp up to some new and exciting projects soon.
 
@@ -30,5 +30,5 @@ Okay trying something new here. My life in numbers,
 * **Fitness** - 5 workouts at the gym, definitely room to grow here. Walking 1km each way to work is heaps better than driving in everyday
 * **Health** - 78% doses taken, I need to get better at managing my refills, but not recording my food consumption very regularly
 * **Mood** - Most days are Good days! 7 Great days, 2 Meh days. I feel Meh when I'm sick or stuck home.
-* **Finance** - Saved around 18% this month. Good, but could be better
+* **Finance** - Saved around 22% this month. Good, but could be better
 * **Social** - 17 hangouts with friends xD
