@@ -15,7 +15,7 @@ Author: Victory Napitupulu
 * Email client: [Thunderbird](//thunderbird.net)
 * Browser: [Firefox](//firefox.com)
 * IDE: Visual Studio Code
-* Task Manager: [Workflow](//workflowy.com)
+* Task Manager: [Workflowy](//workflowy.com)
 * FTP: [Filezilla](//filezilla-project.org)
 * Notes: [Evernote](//evernote.com)
 * Text Editor: [Atom](//atom.io)
