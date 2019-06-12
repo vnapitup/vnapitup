@@ -13,7 +13,7 @@ Author: Victory Napitupulu
 
 * Markdown editor: [Typora](//typora.io)
 * Email client: [Thunderbird](//thunderbird.net)
-* Browser: [Brave](//brave.com)
+* Browser: [Firefox](//firefox.com)
 * IDE: Visual Studio Code
 * Task Manager: [Workflow](//workflowy.com)
 * FTP: [Filezilla](//filezilla-project.org)
