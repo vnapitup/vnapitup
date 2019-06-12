@@ -9,6 +9,8 @@
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css">
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygments.css">
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono">
+  <link rel="shortcut icon" href="{{ SITEURL }}/theme/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="{{ SITEURL }}/theme/images/favicon.ico" type="image/x-icon">
 
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,10 +27,7 @@
   {% block head %}
   {% endblock %}
 
-  <title>
-    {{ SITENAME }}
-    {% block title %}{% endblock %}
-  </title>
+  <title>{{ SITENAME }}{% block title %}{% endblock %}</title>
 
   {% include "modules/analytics.html" %}
 </head>
