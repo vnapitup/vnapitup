@@ -13,6 +13,7 @@ To be frank it's been a struggle these past few months. But I'm trying to turn i
 
 # Highlights #
 * My car was broken into last month, and my backpack (and glasses) were stolen. That cost $600+ to repair
+* Two near-hits by cars as I as getting off the tram this week - maybe this is a sign?
 
 
 # Stats #
