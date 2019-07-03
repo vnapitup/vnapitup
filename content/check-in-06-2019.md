@@ -17,7 +17,7 @@ Am trying to make an effort to see friends more often and get out of this rut.
 Okay trying something new here. My life in numbers,
 
 * **Fitness** - 0/2 workouts, I have to try harder
-* **Health** - 70% doses taken, slightly better but not good enough
+* **Health** - 70% doses taken, slightly better but not good enough. I've been vomiting almost every morning - but lately there's been blood sometimes. I don't think that's supposed to happen
 * **Mood** - it's been Bad days, struggling to turn it around
 * **Finance** - Net worth +2.3%, but cash position needs more discipline
 * **Social** - Caught up with James, Janice and Grant. Nice not to feel invisible.
