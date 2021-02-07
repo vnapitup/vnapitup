@@ -15,16 +15,15 @@ Author: Victory Napitupulu
 * Email client: [Thunderbird](//thunderbird.net)
 * Browser: [Firefox](//firefox.com)
 * IDE: Visual Studio Code
-* Task Manager: [Workflowy](//workflowy.com)
+* Task Manager: [Notion](//notion.so)
 * FTP: [Filezilla](//filezilla-project.org)
-* Notes: [Evernote](//evernote.com)
+* Notes: [Obsidian](//obsidian.md)
 * Text Editor: [Atom](//atom.io)
 
 **Mobile**
 
-* OS: Android 7.1 (LineageOS)
-* Phone: ZTE Axon 7
-* Notes: [Evernote](//evernote.com)
+* OS: Android 11
+* Phone: Pixel 3a
 * Browser: Firefox & Firefox Focus
 * RSS reader: [Press](//play.google.com/store/apps/details?id=com.twentyfivesquares.press)
 * Mood tracking: [Daylio](//daylio.webflow.io)
@@ -48,7 +47,8 @@ Author: Victory Napitupulu
  **Physical**
 
 * Activity, workout, and sleep tracking: [Fitbit Ionic](//fitbit.com/au/ionic)
-* Tablet: Nexus 7 (2012)
-* Keyboard: Razer Blackwidow
-* Mouse: Razer Deathadder
+* Tablet: Lenovo Duet
+* Keyboard: Logitech G603
+* Mouse: Logitech G613
+* Headset: HyperX Cloud Stinger
 * Speakers: Audioengine A2
